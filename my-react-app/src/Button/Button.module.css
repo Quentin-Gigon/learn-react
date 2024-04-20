@@ -1,0 +1,16 @@
+/*Good practice to have certain components in their own folder with their own css style sheet*/
+/*module.css is used to scope the css to the component*/
+/*This is a css module file for the Button component*/
+.button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
